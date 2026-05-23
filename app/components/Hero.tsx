@@ -17,7 +17,7 @@ export default function Hero() {
           borderRadius: '999px', fontSize: '12px', color: '#a1a1aa', marginBottom: '24px', fontWeight: 600
         }}
       >
-        🤖 Une avancée technologique imprésionante
+        🤖 Une avancée technologique impréssionnante
       </motion.div>
 
       {/* clamp() ajuste automatiquement la taille de la police selon l'écran */}
