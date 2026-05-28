@@ -20,8 +20,8 @@ export default function TechnologiePage() {
           maxWidth: '1100px', margin: '0 auto', padding: '20px', 
           display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(290px, 1fr))', gap: '24px' 
         }}>
-          <SectionCard title="Les avancées" textColor="#60a5fa" delay={0.1} points={['Diagnostics médicaux d’une précision chirurgicale précoce', 'Automatisation complète de processus lourds et industriels', 'Optimisation algorithmique des consommations d’énergie']} />
-          <SectionCard title="Les risques" textColor="#60a5fa" delay={0.2} points={['Mutation ultra-rapide des compétences requises à l’emploi', 'Cyberattaques gérées par des malwares autonomes', 'Biais discriminatoires intégrés dans les modèles prédictifs']} />
+          <SectionCard title="Les avancées" textColor="#60a5fa" delay={0.1} points={['Diagnostics médicaux d’une grande précision', 'Automatisation complète de processus lourds et industriels', 'Optimisation algorithmique des consommations d’énergie']} />
+          <SectionCard title="Les risques" textColor="#60a5fa" delay={0.2} points={['Obsolescence rapide des compétences face au marché de l’emploi', 'Cyber-attaques gérées par des malwares autonomes', 'Biais algorithmiques et risques de discrimination systémique dans les modèles IA']} />
         </section>
       </div>
 
