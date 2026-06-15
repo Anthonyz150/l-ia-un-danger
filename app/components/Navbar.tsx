@@ -22,7 +22,7 @@ export default function Navbar() {
   const menuLinks = [
     { name: 'Accueil', href: '/' },
     { name: 'Musique', href: '/musique' },
-    { name: 'Technologie', href: '/technologie' },
+    { name: 'Métiers', href: '/métiers' },
     { name: 'Influenceurs', href: '/influenceurs' },
   ]
 

@@ -9,7 +9,7 @@ import Footer from './components/Footer'
 
 const THEMES = [
   { id: 'm', title: 'IA & Musique', desc: 'L’IA compose désormais des chansons, clone des voix et transforme totalement l’industrie de l’audio.', href: '/musique', color: '168, 85, 247', accent: '#c084fc' },
-  { id: 't', title: 'IA & Technologie', desc: 'Robots autonomes, médecine de pointe et cyber-sécurité… l’IA redéfinit l’infrastructure globale.', href: '/technologie', color: '59, 130, 246', accent: '#60a5fa' },
+  { id: 't', title: 'IA & Métiers', desc: 'Robots autonomes, médecine de pointe et cyber-sécurité… l’IA redéfinit l’infrastructure globale.', href: '/métiers', color: '59, 130, 246', accent: '#60a5fa' },
   { id: 'i', title: 'IA & Influenceurs', desc: 'Les réseaux sociaux voient l’émergence d’avatars virtuels autonomes et de contenus entièrement automatisés.', href: '/influenceurs', color: '249, 115, 22', accent: '#fb923c' }
 ]
 
